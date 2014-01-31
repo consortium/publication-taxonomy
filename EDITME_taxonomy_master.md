@@ -395,7 +395,7 @@ value by grouping scattered articles together as a single themed issue
 of the overlay journal. Such themed issues allow the focussed coverage
 of relatively obscure or newly emerging topics.
 
-http://en.wikipedia.org/wiki/Overlay\_journal
+http://en.wikipedia.org/wiki/Overlay_journal
 
 —Published contribution to a discussion in a journal
 (Pre-print/post-print)
@@ -423,7 +423,7 @@ to 4x8 feet in dimensions (approximately 60x90cm to 120x243cm). Posters
 are often created using a presentation program such as PowerPoint and
 may be printed on a large format printer. Posters are often laminated
 with plastic to improve durability.
-http://en.wikipedia.org/wiki/Poster\_session (+ changes)
+http://en.wikipedia.org/wiki/Poster_session (+ changes)
 
 Conference Proceedings
 
@@ -433,7 +433,7 @@ as printed volumes or in electronic form either before the conference
 opens or after it has closed. Proceedings contain the contributions made
 by researchers at the conference. They are the written record of the
 work that is presented to fellow researchers.
-http://en.wikipedia.org/wiki/Conference\_proceedings
+http://en.wikipedia.org/wiki/Conference_proceedings
 
 Course Reader
 
@@ -442,7 +442,7 @@ and academe. A course reader is made up of a collection of existing
 texts, course slides and notes etc. Common forms of course readers
 include; photocopy packs or PDF documents.
 
-https://en.wikipedia.org/wiki/Course\_reader
+https://en.wikipedia.org/wiki/Course_reader
 
 Edited Book, Edited collection, Festschrift (German), Published Reader
 
@@ -486,7 +486,7 @@ agencies or scientific research groups, working papers from research
 groups or committees, white papers, and preprints. The term “grey
 literature” is used in library and information science.
 
-http://en.wikipedia.org/wiki/Grey\_literature
+http://en.wikipedia.org/wiki/Grey_literature
 
 Minor or regional language publications
 
@@ -512,7 +512,7 @@ PhD Thesis
 
 A dissertation or thesis is a document submitted in support of
 candidature for a degree or professional qualification presenting the
-author’s research and findings. http://en.wikipedia.org/wiki/PhD\_thesis
+author’s research and findings. http://en.wikipedia.org/wiki/PhD_thesis
 
 Reading Group
 
@@ -539,7 +539,7 @@ thesauruses, encyclopedias, almanacs, bibliographies, and catalogs. Many
 reference works are available in electronic form and can be obtained as
 software packages or online through the Internet.
 
-http://en.wikipedia.org/wiki/Reference\_work
+http://en.wikipedia.org/wiki/Reference_work
 
 —Encyclopedia (meta, “all human knowledge”)
 
@@ -621,7 +621,7 @@ Research Paper, Academic or Scholarly Paper
 
 A Research Paper is a type of academic writing that needs more
 theoretical, significant and methodical level of question.
-http://en.wikipedia.org/wiki/Research\_Paper
+http://en.wikipedia.org/wiki/Research_Paper
 
 Working Paper
 
@@ -629,7 +629,7 @@ A preliminary scientific or technical paper. Often, authors will release
 working papers to share ideas about a topic or to elicit feedback before
 submitting to a peer reviewed conference or academic journal. Working
 papers are often the basis for related works, and may in themselves be
-cited by peer-review papers. http://en.wikipedia.org/wiki/Working\_paper
+cited by peer-review papers. http://en.wikipedia.org/wiki/Working_paper
 
 Part 2
 
@@ -643,7 +643,7 @@ computer, or on your
 
 phone or other electronic device.
 
-http://google.about.com/od/a/g/apps\_def.htmArchive, Collection
+http://google.about.com/od/a/g/apps_def.htmArchive, Collection
 
 Artist’s Book
 
@@ -692,7 +692,7 @@ length may vary from a single paragraph to a substantial essay. Such a
 review may evaluate the book on the basis of personal taste. Reviewers
 may use the occasion of a book review for a display of learning or to
 promulgate their own ideas on the topic of a fiction or non-fiction
-work. http://en.wikipedia.org/wiki/Book\_review
+work. http://en.wikipedia.org/wiki/Book_review
 
 Catalog
 
@@ -755,7 +755,7 @@ Pamphlet
 
 subject.
 
-https://www.google.de/search?q=define+pamphlet&oq=define+pamphlet&aqs=chrome..69i57j0l5.3410j0j7&sourceid=chrome&espv=210&es\_sm=91&ie=UTF-8
+https://www.google.de/search?q=define+pamphlet&oq=define+pamphlet&aqs=chrome..69i57j0l5.3410j0j7&sourceid=chrome&espv=210&es_sm=91&ie=UTF-8
 
 ​2) A pamphlet is an unbound booklet (that is, without a hard cover or
 binding). It may consist of a single sheet of paper that is printed on
@@ -817,7 +817,7 @@ phone, web, or mobile communication systems. It uses standardized
 communications protocols to allow fixed line or mobile phone devices to
 exchange short text messages.
 
-http://en.wikipedia.org/wiki/Short\_Message\_Service
+http://en.wikipedia.org/wiki/Short_Message_Service
 
 Storify
 
@@ -876,7 +876,7 @@ understand an issue, solve a problem, or make a decision. White papers
 are used in two main spheres: government and business-to-business
 marketing.
 
-http://en.wikipedia.org/wiki/White\_paper
+http://en.wikipedia.org/wiki/White_paper
 
 Wikis
 
@@ -893,45 +893,7 @@ A Publication Taxonomy
 
 Publication Taxonomy Summary
 
-A Publication Taxonomy
-
-Publication Taxonomy Extendend
-
-A Publication Taxonomy
-
-Publication Taxonomy Extendend
-
-A Publication Taxonomy
-
-Publication Taxonomy Extendend
-
-A Publication Taxonomy
-
-Publication Taxonomy Extendend
-
-A Publication Taxonomy
-
-Publication Taxonomy Extendend
-
-A Publication Taxonomy
-
-Publication Taxonomy Extendend
-
-A Publication Taxonomy
-
-Publication Taxonomy Extendend
-
-A Publication Taxonomy
-
-Publication Taxonomy Extendend
-
-A Publication Taxonomy
-
-Publication Taxonomy Extendend
-
-A Publication Taxonomy
-
-Visual AppendiX
+Visual Appendix
 
 An image gallery of
 
@@ -975,7 +937,7 @@ A Publication Taxonomy
 
 The Magot
 
-Collective novel from Brendan Howell’s exquisite\_code project. The book
+Collective novel from Brendan Howell’s exquisite_code project. The book
 was written by seven writers. The process delegated by a brutalist-brut
 software edit machine, known as The Maggot.
 
@@ -1034,7 +996,7 @@ PugPig
 
 open source framework for tablet and mobile publications. Example
 putblication: Time Higher Education Magazine - tablet app.
-http://pugpig.com/\#the
+http://pugpig.com/
 
 ![Screen%20Shot%202013-08-10%20at%2018.41.29.png](taxo-web-resources/image/Screen%20Shot%202013-08-10%20_fmt.png)
 
@@ -1092,7 +1054,7 @@ The Book of Answers
 
 First as thick book and now as website or app with algorithm
 
-http://www.thebookofanswers.com/original\_ans.html
+http://www.thebookofanswers.com/original_ans.html
 
 ![Screen%20Shot%202013-08-10%20at%2010.37.08.png](taxo-web-resources/image/Screen%20Shot%202013-08-10_fmt1.png)
 
@@ -1169,7 +1131,7 @@ http://cargocollective.com/cityaslab/Betta
 a pamphlet series in three Din sizes in accordance to the amount that is
 being published
 
-http://d13.documenta.de/\#/publications/100-notes-100-thoughts/
+http://d13.documenta.de/#/publications/100-notes-100-thoughts/
 
 ![2013-07-08%2017.07.30.jpg](taxo-web-resources/image/2013-07-08%2017.07.30_fmt.png)
 
@@ -1415,14 +1377,12 @@ collaborative, open source, public infrastructure, publishing, software
 
 ![Tax\_Cov\_Fin.jpg](taxo-web-resources/image/Tax_Cov_Fin_fmt.png)
 
-A
-
-Publication
-
-Taxonomy
-
-an initial guide to academic publishing types, inside and beyond Academe
+A Publication Taxonomy–an initial guide to academic publishing types, inside and beyond Academe
 
 A Hybrid Publishing Consortium Production
 
 ![103491.png](taxo-web-resources/image/103491.png)
+
+
+
+
