@@ -1,4 +1,3 @@
-
 Title: A Publication Taxonomy–an initial guide to academic publishing types, inside and beyond Academe
 
 A Hybrid Publishing Consortium Production
@@ -47,7 +46,7 @@ https://github.com/consortium/publication-taxonomy
 
 The full list item descriptions can be found on WikiPedia and have been
 collected together as a WikiPedia community book.
-https://en.wikipedia.org/wiki/Book:A\_Publication\_Taxonomy
+https://en.wikipedia.org/wiki/Book:A_Publication_Taxonomy
 
 You are welcome to add to the list of entries and to edit the articles
 on WikiPedia or on our GitHub repository if the WikiPedia bots or its
@@ -95,7 +94,7 @@ Publication Taxonomy Extended (descriptions)
 A synopsis of edited and appended WikiPedia entries
 
 A full list can be found here \
-https://en.wikipedia.org/wiki/Book:A\_Publication\_Taxonomy
+https://en.wikipedia.org/wiki/Book:A_Publication_Taxonomy
 
 Part 1
 
@@ -318,7 +317,7 @@ Publication Taxonomy Extended
 A synopsis of edited and appended WikiPedia entries
 
 A full list can be found here \
-https://en.wikipedia.org/wiki/Book:A\_Publication\_Taxonomy
+https://en.wikipedia.org/wiki/Book:A_Publication_Taxonomy
 
 You are welcome to add to the list of entries and to edit the articles
 on WikiPedia or on our GitHub repository if the WikiPedia bots or
@@ -346,7 +345,7 @@ for a timely review. Publishers send books to book review editors in the
 hope that their books will be reviewed. The length and depth of research
 book reviews varies much from journal to journal, as does the extent of
 textbook and trade book review.
-http://en.wikipedia.org/wiki/Academic\_journal\#Book\_reviews
+http://en.wikipedia.org/wiki/Academic_journal#Book_reviews
 
 Academic Journal
 
@@ -357,7 +356,7 @@ critique of existing research. Content typically takes the form of
 articles presenting original research, review articles, and book
 reviews.
 
-http://en.wikipedia.org/wiki/Academic\_journal
+http://en.wikipedia.org/wiki/Academic_journal
 
 —Special issue of Academic Journal
 
