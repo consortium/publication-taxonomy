@@ -77,7 +77,7 @@ simon.worthington@leuphana.de
 
 christina.kral@leuphana.de
 
-@HyPub
+[@pub_con](http://https://twitter.com/pub_con)
 
-GitHub\
+GitHub
 https://github.com/consortium/publication-taxonomy
