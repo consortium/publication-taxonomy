@@ -63,7 +63,11 @@ we'd greatly appreciate if you added an example, in form of a link or
 description.
 
 You can direct your comments to Simon and Christina on our GitHub
-repository, via email or our @HyPub Twitter handle.
+repository, via email or our [@pub_con](http://https://twitter.com/pub_con) Twitter handle.
+
+The full list item descriptions can be found on WikiPedia and have been collected together as a WikiPedia community book. 
+
+https://en.wikipedia.org/wiki/Book:A_Publication_Taxonomy
 
 We thank you for your analytical readership.
 
