@@ -204,7 +204,8 @@ as part of the Hybrid Publishing Lab, Centre for Digital Cultures in
 Lüneburg, Germany. The list will be hosted and updated on GitHub and
 published on our open research platform https://consortium.io/.
 
-<a name="list">Publication Taxonomy Summary</a>
+<a name="list"></a>
+Publication Taxonomy Summary
 
 Part 1
 
