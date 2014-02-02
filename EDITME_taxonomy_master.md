@@ -193,9 +193,8 @@ simon.worthington@leuphana.de
 
 christina.kral@leuphana.de
 
-@HyPub
-
-GitHub\
+[@pub_con](https://twitter.com/pub_con)
+GitHub
 https://github.com/consortium/publication-taxonomy
 
 A Publication Taxonomy—an Initial Guide to Academic Publishing Types,
