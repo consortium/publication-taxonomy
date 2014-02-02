@@ -3,6 +3,8 @@ Dear Community,
 Welcome to the Publication Taxonomy an exploratory listing project by
 the Hybrid Publishing Consortium.
 
+[Read and edit the list here.](https://github.com/consortium/publication-taxonomy/blob/master/EDITME_taxonomy_master.md#list)
+
 The Hybrid Publishing Consortium is the technology research arm of the
 Hybrid Publishing Lab and is made up of a team of six interdisciplinary
 researchers, developing open source software for multi-format
