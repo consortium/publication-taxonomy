@@ -179,7 +179,7 @@ we'd greatly appreciate if you added an example, in form of a link or
 description.
 
 You can direct your comments to Simon and Christina on our GitHub
-repository, via email or our @HyPub Twitter handle.
+repository, via email or our [@pub_con](https://twitter.com/pub_con) Twitter handle.
 
 We thank you for your analytical readership.
 
