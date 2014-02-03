@@ -6,9 +6,7 @@ A Hybrid Publishing Consortium Production
 
 Concept and editorial: Simon Worthington & Christina Kral
 
-Thanks for feedback and contributions to: Gray Hall,
-
-Marcus Burkhardt, Pauline van Mourik Broekman
+Thanks for feedback and contributions to: Gary Hall, Marcus Burkhardt, Pauline van Mourik Broekman
 
 ISBN: 978-1-906496-70-8
 
