@@ -284,6 +284,7 @@ Experimental (Blue Sky)
 -   Lecture
 -   Lecture video
 -   Liquid book
+-   Live coding
 -   Map/geospatial representation
 -   Medium-length books along the lines of Amazon’s Kindle Singles
 -   Multimedia book
