@@ -44,7 +44,7 @@ https://github.com/consortium/publication-taxonomy
 
 The full list item descriptions can be found on WikiPedia and have been
 collected together as a WikiPedia community book.
-https://en.wikipedia.org/wiki/Book:A_Publication_Taxonomy
+https://en.wikipedia.org/wiki/User:Mrchristian%5CBooks%5CA_Publication_Taxonomy
 
 You are welcome to add to the list of entries and to edit the articles
 on WikiPedia or on our GitHub repository if the WikiPedia bots or its
@@ -92,7 +92,7 @@ Publication Taxonomy Extended (descriptions)
 A synopsis of edited and appended WikiPedia entries
 
 A full list can be found here \
-https://en.wikipedia.org/wiki/Book:A_Publication_Taxonomy
+https://en.wikipedia.org/wiki/User:Mrchristian%5CBooks%5CA_Publication_Taxonomy
 
 Part 1
 
@@ -316,7 +316,7 @@ Publication Taxonomy Extended
 A synopsis of edited and appended WikiPedia entries
 
 A full list can be found here \
-https://en.wikipedia.org/wiki/Book:A_Publication_Taxonomy
+https://en.wikipedia.org/wiki/User:Mrchristian%5CBooks%5CA_Publication_Taxonomy
 
 You are welcome to add to the list of entries and to edit the articles
 on WikiPedia or on our GitHub repository if the WikiPedia bots or
